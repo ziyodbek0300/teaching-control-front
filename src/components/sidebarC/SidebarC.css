@@ -1,0 +1,11 @@
+.sidebarC {
+    font-size: 1.3rem;
+    /*padding: 1rem 0;*/
+    font-weight: 500;
+    max-height: 90vh;
+}
+
+.navLink {
+    color: #5C656A;
+    text-decoration: unset;
+}
